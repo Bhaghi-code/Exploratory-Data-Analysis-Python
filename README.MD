@@ -1,4 +1,4 @@
-Countries of the world GDP($ per capita)
+**Countries of the world GDP($ per capita)**
 
 
 The purpose of research is to analyze and understand the GDP data of different countries. The dataset is provided with the countries of the world data set to analyze the factors affecting a country's GDP per capita in order to make a predictive model of countries GDP using exploratory data analysis. This data set helps me to understand the data frames and introduced us more with the libraries such as panda, numpy, seaborn and few more and helped us to preprocess the data, visualization of the different kinds of graphs as heatmaps, distplot, pairplot, boxplot etcetra. The methods used as df.describe, np.array, sns.barplot etcetra helped me to understand more about the plots. I found five errors in my code and all were related to Nan values or zero division error. I learned about the imputer class and its methods as imputer.fit, imputer.transform which helped in dealing with the missing values. So this assignment helped me in learning the fundamentals of the machine learning which will further help me to understand more complex models by analyzing and visualizing them.
